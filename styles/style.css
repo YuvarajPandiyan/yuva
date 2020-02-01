@@ -1,0 +1,41 @@
+.text-right{
+    margin: 0px;
+    text-align: center;
+}
+.col-margin{
+    margin: auto;
+}
+.chicken{
+    background-color: rgb(179, 179, 179);
+}
+.beef{
+    background-color: rgb(179, 179, 179);
+}
+.sushi{
+    background-color: rgb(179, 179, 179);
+}
+.titile-1{
+    background-color: rgb(243, 167, 179);
+    margin-left: 100px ;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    height: 40px;
+}
+.titile-2{
+    background-color: rgb(189, 0, 31);
+    margin-left: 100px ;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    height: 40px;
+}
+.titile-3{
+    background-color: rgb(157, 177, 84);
+    margin-left: 100px ;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    height: 40px;
+}
+.right{
+    padding-right: 0px;
+    border: 2px solid black;
+}
